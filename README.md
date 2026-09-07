@@ -27,4 +27,4 @@ A análise foca na extração de insights a partir de uma base de dados de assin
 
 ---
 *Projeto desenvolvido como parte do aprimoramento contínuo em Análise de Dados e Excel.* 
-**Vamos nos conectar?** Sinta-se à vontade para me acompanhar e debater sobre análise de dados e MIS no [LinkedIn](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/feliperiosanalista/).
+**Vamos nos conectar?** Sinta-se à vontade para me acompanhar e debater sobre análise de dados e MIS no [LinkedIn]([**https://linkedin.com/in/seu-perfil**]).
